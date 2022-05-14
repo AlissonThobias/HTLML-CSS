@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(-35deg, #B395C3, #7C6B85, #2D1938);
+    background-attachment: fixed;
+    text-align: center; 
+}
+h1{
+    font-size: 1.3cm;
+    text-align: center;
+}
